@@ -1,0 +1,19 @@
+%YAML 1.2
+
+html:
+  body:
+    nav: Navigation links
+    
+    main: Jumbotron
+      header: A header for sections
+
+    section: A section in a webpage
+      header: A header for sections
+      
+      article: Defines independent, self-contained content
+        header: A header for articles
+        details: Additional details user can show or hide
+
+    aside: Content aside from page content
+
+    footer: Defines the end of a webpage
